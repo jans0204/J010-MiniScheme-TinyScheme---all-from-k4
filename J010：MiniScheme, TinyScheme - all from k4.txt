@@ -1,0 +1,41 @@
+﻿J010：MiniScheme, TinyScheme - all from k4
+
+MIT-Scheme 早已回歸 GNU-Lisp，Scheme 已成為歷史名詞。
+
+---------- Mini-Scheme Interpreter Version 0.85 ----------
+
+          coded by Atsushi Moriwaki (11/5/1989)
+
+          Revised by Akira KIDA
+
+          Version 0.85k4  (17 May 1994)
+          Version 0.85k3  (30 Nov 1989)
+          Version 0.85k2  (28 Nov 1989)
+          Version 0.85k1  (14 Nov 1989)
+
+下載：
+
+# Minischeme-0.85k4-a
+https://sourceforge.net/projects/minischeme/
+https://sourceforge.net/projects/minischeme/files/minischeme.zip
+
+# Minischeme-0.85w2
+http://aminet.net/package/dev/lang/minischeme-0.85w2-aros
+http://aminet.net/dev/lang/minischeme-0.85w2-aros.tgz
+http://aminet.net/dev/lang/minischeme-0.85w2-aros.readme
+
+# Minischeme-0.85p1 (0.85ce1)
+https://github.com/catseye/minischeme/		# minischeme-master.zip
+
+# TinyScheme-1.42
+https://en.wikipedia.org/wiki/TinyScheme
+https://en.wikibooks.org/wiki/Scheme_Programming/TinyScheme
+
+http://tinyscheme.sourceforge.net/home.html
+https://sourceforge.net/projects/tinyscheme/files/tinyscheme/tinyscheme-1.42/tinyscheme-1.42.zip
+
+全部實作完畢。
+
+(END)
+
+https://github.com/jans0204/J010-MiniScheme-TinyScheme---all-from-k4
